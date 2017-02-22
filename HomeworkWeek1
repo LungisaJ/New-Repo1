@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Index Page</title>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+
+</body>
+</html>
+	<title>Homework 1</title>
+
+<head>
+    <meta charset="UTF-8">
+
+		
+</head>
+
+<Container>
+
+	<body> 
+
+<header>
+
+	<h1>Lungisa's Homework 1</h1>
+
+</header>
+
+<nav class="nav">
+
+	<h1>Favorite Meals</h1>
+		<ul>
+			<li>Breakfast</li>
+			<li>Lunch</li>
+			<li>Snack</li>
+		</ul>
+
+</nav>
+
+<div>
+
+<box1>
+	<section>My Section</section>
+</box1>
+
+<div>
+
+<box2>
+
+	<article class="article">
+		My ARTicle
+	</article>
+</box2>
+
+<div>
+
+<box3>
+		<h1>Favorite Pastimes</h1>
+		<h2>Best Places to visit</h2>
+		<h3>Cheapest Hotels</h3>
+</box3>
+
+<div>
+
+<box4>
+<p>
+Sleep dream eat fun shop party travel study Sleep dream eat fun shop party travel studySleep dream eat fun shop party travel studySleep dream eat fun shop party travel study Sleep dream eat fun shop party travel studySleep dream eat fun shop party travel study</p>
+
+</box4>
+
+</div>
+
+<div>
+<box5> 
+
+	<aside> 
+	<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus</p>
+
+	<p>varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus.</p>
+</aside>
+
+</box5>
+</div>
+
+</body>
+
+<footer>Copyright Lungisa Johnson</footer>
+
+</container>
+
+</html>
